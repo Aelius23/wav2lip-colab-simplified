@@ -13,6 +13,15 @@ While the original [Wav2Lip repository](https://github.com/Rudrabha/Wav2Lip) off
 
 ---
 
+# What goes in?
+<img width="618" alt="AbberantMiss" src="https://github.com/user-attachments/assets/3d85bd2d-55e1-4194-bff6-2ea2f813fd70" />
+
+# What comes out?
+
+
+https://github.com/user-attachments/assets/dbee784f-9cee-4205-8493-49da56e65135
+
+
 ## 📄 Requirements
 
 - A Google account
